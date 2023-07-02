@@ -3,4 +3,4 @@ Introducing "WhisperedHeart" - an innovative web application that empowers users
 
 Once registered, users can unleash their thoughts and emotions by crafting and submitting their confessions within the platform. By maintaining anonymity, WhisperedHeart creates a safe space for individuals to express themselves freely without fear of judgment or repercussions.
 
-A confession website
+
